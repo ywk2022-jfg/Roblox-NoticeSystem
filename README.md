@@ -9,6 +9,10 @@ Powered by RobloxStudio
 
 点击[此处](https://create.roblox.com/store/asset/129658882237106)，获取模型后导入Roblox Studio，并且创建一个Script中使用Creattip的function，随后就可以进行通知了。
 
+Github:https://github.com/Lorg-Love/Roblox-NoticeSystem
+Gitee:https://gitee.com/ywk2022/Roblox-NoticeSystem
+Jihulab:https://jihulab.com/lorg-love-group/Roblox-NoticeSystem
+Giecode:https://gitcode.com/ywk2022/Roblox-NoticeSystem
 ------
 
 ## English instructions
@@ -20,5 +24,9 @@ Method 2:
 
 Click [here](https://create.roblox.com/store/asset/129658882237106) to obtain the model, import it into Roblox Studio, and create a script using the Creattip function. After that, you can proceed with notifications.
 
+Github:https://github.com/Lorg-Love/Roblox-NoticeSystem
+Gitee:https://gitee.com/ywk2022/Roblox-NoticeSystem
+Jihulab:https://jihulab.com/lorg-love-group/Roblox-NoticeSystem
+Giecode:https://gitcode.com/ywk2022/Roblox-NoticeSystem
 
 
